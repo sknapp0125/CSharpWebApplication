@@ -1,0 +1,6 @@
+c:\users\stefanie\documents\visual studio 2013\Projects\CSharpWebApplication\bin\CSharpWebApplication.dll.config
+c:\users\stefanie\documents\visual studio 2013\Projects\CSharpWebApplication\bin\CSharpWebApplication.dll
+c:\users\stefanie\documents\visual studio 2013\Projects\CSharpWebApplication\bin\CSharpWebApplication.pdb
+c:\users\stefanie\documents\visual studio 2013\Projects\CSharpWebApplication\obj\Debug\CSharpWebApplication.csprojResolveAssemblyReference.cache
+c:\users\stefanie\documents\visual studio 2013\Projects\CSharpWebApplication\obj\Debug\CSharpWebApplication.dll
+c:\users\stefanie\documents\visual studio 2013\Projects\CSharpWebApplication\obj\Debug\CSharpWebApplication.pdb
